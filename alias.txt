@@ -1,2 +1,3 @@
 I am learning git!
 And I am Awesome!!
+And everything is Awesome when you're not working at a job!
